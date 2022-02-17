@@ -9,5 +9,7 @@ A little bit about myself:
 - 🏀 Fan of NBA, music (EDM and rap), running, and cooking
 - 📫 If you have any questions or want to contact me, please reach out at bspark2318@gmail.com
 
+### Project Pipeline 
 
+### Past projects I've worked on
 
