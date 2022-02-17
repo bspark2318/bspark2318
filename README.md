@@ -1,4 +1,4 @@
-#BumSu Park - Github
+# BumSu Park - Github
 
 ## Welcome to BumSu Park's repository! 
 
