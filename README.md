@@ -10,6 +10,8 @@ A little bit about myself:
 - 📫 If you have any questions or want to contact me, please reach out at bspark2318@gmail.com
 
 ### Project Pipeline 
+- [ ] Personal website using React.js for front-end and Nest.js for back-end (0%)
+- [ ] iOS App for sharing foodie places among friends. Front-end of it (0%)
 
 ### Past projects I've worked on
 
