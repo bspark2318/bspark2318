@@ -16,8 +16,12 @@ A little bit about myself:
 ## Current Projects and Timeline
 
 ### Personal website 
+- [ ] Figure out where to host the website 
+- [ ] Creating a template designs of the website
 
-### iOS App
+### iOS App : Foodie Pin Share App
+- [ ] Create template and vision for the project
 
-### Past projects I've worked on
-- TBD
+## Past projects I've worked on
+- Contributing member of Puffin (April 2021 - August 2021) : https://www.puffinmaps.com/
+
