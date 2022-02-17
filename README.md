@@ -2,22 +2,12 @@
 
 ## Welcome to BumSu Park's repository! 
 A little bit about myself: 
-- Born and raised in 🇰🇷. Grew up in 🇰🇷 🇵🇭 🇨🇳 🇺🇸.
-- Hoping to become a full stack developer and/or data scientist
-- Experiences with JavaScript, Python, TypeScript, React.js, C, Swift, and Go
-- Past projects include : 
-- Currently trying to learn more about Swift and develop an iPhone app 
-- Also hoping to launch a personal website for my own interest 
-- You can reach me at: bspark2318@gmail.com
+- 🐣 Born and raised in 🇰🇷. Grew up in 🇰🇷 🇵🇭 🇨🇳 🇺🇸.
+- 🖥 Hoping to become a full stack developer and/or data scientist
+- ⌨️ Experiences with JavaScript, Python, TypeScript, React.js, C, Swift, and Go
+- ✨ Please check out my pipeline below to see what projects that I am working on 
+- 🏀 Fan of NBA, music (EDM and rap), running, and cooking
+- 📫 If you have any questions or want to contact me, please reach out at bspark2318@gmail.com
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
