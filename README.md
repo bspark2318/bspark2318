@@ -13,5 +13,11 @@ A little bit about myself:
 - [ ] Personal website using React.js for front-end and Nest.js for back-end (0%)
 - [ ] iOS App for sharing foodie places among friends. Front-end of it (0%)
 
-### Past projects I've worked on
+## Current Projects and Timeline
 
+### Personal website 
+
+### iOS App
+
+### Past projects I've worked on
+- TBD
