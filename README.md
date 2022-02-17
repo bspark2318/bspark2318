@@ -1,7 +1,14 @@
 # BumSu Park - Github
 
 ## Welcome to BumSu Park's repository! 
-
+A little bit about myself: 
+- Born and raised in 🇰🇷. Grew up in 🇰🇷 🇵🇭 🇨🇳 🇺🇸.
+- Hoping to become a full stack developer and/or data scientist
+- Experiences with JavaScript, Python, TypeScript, React.js, C, Swift, and Go
+- Past projects include : 
+- Currently trying to learn more about Swift and develop an iPhone app 
+- Also hoping to launch a personal website for my own interest 
+- You can reach me at: bspark2318@gmail.com
 
 
 
