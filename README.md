@@ -10,8 +10,8 @@ A little bit about myself:
 - 📫 If you have any questions or want to contact me, please reach out at bspark2318@gmail.com
 
 ## Past projects I've worked on``
-- Puffin  - Contributing member (April 2021 - August 2021) : https://www.puffinmaps.com/
-- Good Taste - Front end of an iOS application with a simulated backend (Uploadede March 2022) : Link here
+- [Puffin](https://www.puffinmaps.com/)  - Contributing member (April 2021 - August 2021) : https://www.puffinmaps.com/
+- [Good Taste](https://github.com/bspark2318/good-taste-ios) - Front end of an iOS application with a simulated backend (Uploadede March 2022) : [Repository](https://github.com/bspark2318/good-taste-ios)
 
 ### Project Pipeline 
 - [ ] Personal website using React.js for front-end and Nest.js for back-end (0%)
