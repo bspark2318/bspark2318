@@ -9,9 +9,9 @@ A little bit about myself:
 - 🏀 Fan of NBA, music (EDM and rap), running, and cooking
 - 📫 If you have any questions or want to contact me, please reach out at bspark2318@gmail.com
 
-## Past projects I've worked on``
+## Past projects I've worked on
 - [Puffin](https://www.puffinmaps.com/)  - Contributing member (April 2021 - August 2021) : https://www.puffinmaps.com/
-- [Good Taste](https://github.com/bspark2318/good-taste-ios) - Front end of an iOS application with a simulated backend (Uploadede March 2022) : [Repository](https://github.com/bspark2318/good-taste-ios)
+- [Good Taste](https://github.com/bspark2318/good-taste-ios) - Front end of an iOS application with a simulated backend (Uploaded March 2022) : [Repository](https://github.com/bspark2318/good-taste-ios)
 
 ### Project Pipeline 
 - [ ] Personal website using React.js for front-end and Nest.js for back-end (0%)
