@@ -5,13 +5,17 @@ A little bit about myself:
 - 🐣 Born and raised in 🇰🇷. Grew up in 🇰🇷 🇵🇭 🇨🇳 🇺🇸.
 - 🖥 Hoping to become a full stack developer and/or data scientist
 - ⌨️ Experiences with JavaScript, Python, TypeScript, React.js, C, Swift, and Go
-- ✨ Please check out my pipeline below to see what projects that I am working on 
+- ✨ Please check out my pipeline below to see what projects I am working on 
 - 🏀 Fan of NBA, music (EDM and rap), running, and cooking
 - 📫 If you have any questions or want to contact me, please reach out at bspark2318@gmail.com
 
+## Past projects I've worked on``
+- Puffin  - Contributing member (April 2021 - August 2021) : https://www.puffinmaps.com/
+- Good Taste - Front end of an iOS application with a simulated backend (Uploadede March 2022) : Link here
+
 ### Project Pipeline 
 - [ ] Personal website using React.js for front-end and Nest.js for back-end (0%)
-- [ ] iOS App for sharing foodie places among friends. Front-end of it (0%)
+- [ ] Backend for iOS Application Good Taste (0%) - Later down the pipeline at the moment
 
 ## Current Projects and Timeline
 
@@ -19,9 +23,7 @@ A little bit about myself:
 - [ ] Figure out where to host the website 
 - [ ] Creating a template designs of the website
 
-### iOS App : Foodie Pin Share App
-- [ ] Create template and vision for the project
+### iOS App : Good Taste Backend Development 
+- [ ] Design backend configuration for the app
 
-## Past projects I've worked on
-- Contributing member of Puffin (April 2021 - August 2021) : https://www.puffinmaps.com/
 
