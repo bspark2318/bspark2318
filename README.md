@@ -20,7 +20,7 @@ A little bit about myself:
 ## Current Projects and Timeline
 
 ### Personal website 
-- [-] Figure out where to host the website 
+- [x] Figure out where to host the website 
 - [ ] Creating a template designs of the website
 
 ### iOS App : Good Taste Backend Development 
