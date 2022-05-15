@@ -15,7 +15,7 @@ A little bit about myself:
 
 ### Project Pipeline 
 - [ ] Personal website using React.js for front-end and Nest.js for back-end (0%)
-- [ ] Backend for iOS Application Good Taste (0%) - Later down the pipeline at the moment
+- [ ] Birthday App - Minimal iOS app to keep track of your contacts' birthdays (Swift UI)
 
 ## Current Projects and Timeline
 
@@ -23,7 +23,7 @@ A little bit about myself:
 - [x] Figure out where to host the website 
 - [ ] Creating a template designs of the website
 
-### iOS App : Good Taste Backend Development 
-- [ ] Design backend configuration for the app
+### iOS App : Birthday App
+- [ ] Integrating Calendar interface with SwiftUI
 
 
