@@ -3,7 +3,7 @@
 ## Welcome to BumSu Park's repository! 
 A little bit about myself: 
 - 🐣 Born and raised in 🇰🇷. Grew up in 🇰🇷 🇵🇭 🇨🇳 🇺🇸.
-- 🖥 Hoping to become a full stack developer and/or data scientist
+- 🖥 Hoping to become a full stack developer
 - ⌨️ Experiences with JavaScript, Python, TypeScript, React.js, C, Swift, and Go
 - ✨ Please check out my pipeline below to see what projects I am working on 
 - 🏀 Fan of NBA, music (EDM and rap), running, and cooking
@@ -11,19 +11,21 @@ A little bit about myself:
 
 ## Past projects I've worked on
 - [Puffin](https://www.puffinmaps.com/)  - Contributing member (April 2021 - August 2021) : https://www.puffinmaps.com/
+- [Chicago 2022 Datathon](https://mass-contagion.glitch.me/) - Participant for IC2S2 Datathon 2022 (July 2022)
+- [Birthday App](https://github.com/bspark2318/birthdayApp) - iOS application with both front-end and backend implemented. Backend was deployed on to GCP in the past, but is now taken down (June 2022) :  [Repository](https://github.com/bspark2318/birthdayApp)
 - [Good Taste](https://github.com/bspark2318/good-taste-ios) - Front end of an iOS application with a simulated backend (Uploaded March 2022) : [Repository](https://github.com/bspark2318/good-taste-ios)
 
 ### Project Pipeline 
-- [ ] Personal website using React.js for front-end and Nest.js for back-end (0%)
-- [ ] Birthday App - Minimal iOS app to keep track of your contacts' birthdays (Swift UI)
+- [ ] Personal website using React and TypeScript for front-end and GraphQL and MySQL for back-end (20%)
 
 ## Current Projects and Timeline
 
 ### Personal website 
 - [x] Figure out where to host the website 
-- [ ] Creating a template designs of the website
+- [x] Creating a template designs of the website on Figma
+- [x] Two basic views for Home and About
+- [ ] Building backend with GraphQL and MySQL containerized in Docker
 
-### iOS App : Birthday App
-- [ ] Integrating Calendar interface with SwiftUI
+
 
 
