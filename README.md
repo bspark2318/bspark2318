@@ -15,10 +15,11 @@ A little bit about myself:
 - [Birthday App](https://github.com/bspark2318/birthdayApp) - iOS application with both front-end and backend implemented. Backend was deployed on to GCP in the past, but is now taken down (June 2022) :  [Repository](https://github.com/bspark2318/birthdayApp)
 - [Good Taste](https://github.com/bspark2318/good-taste-ios) - Front end of an iOS application with a simulated backend (Uploaded March 2022) : [Repository](https://github.com/bspark2318/good-taste-ios)
 
-### Project Pipeline 
-- [ ] Personal website using React and TypeScript for front-end and GraphQL and MySQL for back-end (20%)
 
 ## Current Projects and Timeline
+
+### Project Pipeline 
+- [ ] Personal website using React and TypeScript for front-end and GraphQL and MySQL for back-end (20%)
 
 ### Personal website 
 - [x] Figure out where to host the website 
